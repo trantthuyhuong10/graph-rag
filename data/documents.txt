@@ -1,0 +1,16 @@
+Apple Inc. is an American multinational technology company headquartered in Cupertino, California. 
+Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976, to develop and sell Wozniak's Apple I personal computer.
+The company was incorporated by Jobs and Wozniak as Apple Computer, Inc. in January 1977.
+Steve Jobs served as CEO from 1997 until 2011. Tim Cook became CEO in 2011.
+
+Microsoft Corporation is an American multinational technology corporation headquartered in Redmond, Washington.
+Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800.
+Bill Gates served as CEO from 1975 until 2000. Steve Ballmer was CEO from 2000 to 2014. Satya Nadella became CEO in 2014.
+
+Google LLC is an American multinational technology company focusing on artificial intelligence, online advertising, search engine technology, cloud computing, and more.
+Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California.
+The company was officially founded on September 4, 1998. Sundar Pichai became CEO in 2015.
+
+Facebook (now Meta Platforms) is an American multinational technology conglomerate based in Menlo Park, California.
+Facebook was founded by Mark Zuckerberg along with his Harvard College roommates in 2004.
+Mark Zuckerberg has served as CEO since the company's inception.
