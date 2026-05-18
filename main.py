@@ -3,6 +3,7 @@ from src.rag_system import RAGSystem
 from dotenv import load_dotenv
 import os
 import sys
+import json
 
 load_dotenv()
 

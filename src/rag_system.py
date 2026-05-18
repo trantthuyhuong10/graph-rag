@@ -5,6 +5,7 @@ from langchain.chains import RetrievalQA
 from langchain_ollama import OllamaLLM
 from typing import Dict, List
 import os
+import json
 
 class RAGSystem:
     def __init__(self, graph_builder):
@@ -88,7 +89,8 @@ if __name__ == "__main__":
     graph_builder = Neo4jGraphBuilder()
     rag_system = RAGSystem(graph_builder)
     chunks = rag_system.load_documents("data/documents.txt")
-    rag_system.create_vectorstore(chunks)
+    if not os.path.exists("./chroma_db"):
+        rag_system.create_vectorstore(chunks)
     rag_system.build_knowledge_graph(chunks)    
     while True:
         query = input("User: ")
